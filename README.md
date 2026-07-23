@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vedant Ahire 👋</h1>
-<h3 align="center">Full Stack Developer | 2x Software Engineering Intern | 3x National Hackathon Winner</h3>
+<h3 align="center">Full Stack Developer | Software Developer Intern @ Wolters Kluwer | AI Enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+AI-Powered+Apps;Always+Learning+%F0%9F%9A%80" />
@@ -36,6 +36,16 @@
 ### 🏆 Achievements
 
 🥇 Winner — VORTEXA'24, HackSprint 6.0'25 & Fusion'25 &nbsp;|&nbsp; 📄 3 IEEE Published Research Papers (AI/ML) &nbsp;|&nbsp; 🎓 GfG Campus Ambassador
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/VedantAhire05/VedantAhire05/output/github-contribution-grid-snake.svg" />
+</p>
+
+> *Set up in 2 minutes: add [Platane/snk](https://github.com/Platane/snk) as a GitHub Action on your profile repo — it auto-generates this animation from your commit graph.*
 
 ---
 
