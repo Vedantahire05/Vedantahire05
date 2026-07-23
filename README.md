@@ -31,6 +31,8 @@
 
 **Learnova** — Udemy-inspired LMS with auth, Stripe payments & role-based dashboards · `React` `Node.js` `MongoDB`
 
+---
+
 ### 🤝 Open To
 
 `Full-time SDE roles (2027 grad)` · `Open-source collaboration` · `Freelance full-stack projects` · `Hackathon teams`
