@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="mailto:ahirevedant05@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://linkedin.com/in/VedantAhire05"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/vedant-ahire-067220245/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/VedantAhire05"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://twitter.com/VedantAhire05"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://instagram.com/vedantahire05"><img src="https://skillicons.dev/icons?i=instagram" /></a>
@@ -33,16 +33,18 @@
 
 ---
 
-### 📈 Impact, By the Numbers
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=100&section=header" />
+</p>
 
-| Metric | Result |
-|---|---|
-| Users served across shipped projects | 2,000+ |
-| API response time reduced (BubbleBuddy) | ↓ 30% |
-| Frontend–backend reliability improved via Jest (Frick) | ↑ 40% |
-| App performance improved across 3 full-stack modules | ↑ 35% |
-| Hackathon team-formation time cut (Converge) | ↓ 60% |
-| National hackathons won | 3 |
+<p align="center">
+<i>Diploma → Lateral B.Tech entry → 3x hackathon champion → published researcher.<br>
+I don't just write code, I keep leveling up the way I ship it.</i>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C2FF&height=100&section=footer" />
+</p>
 
 ---
 
