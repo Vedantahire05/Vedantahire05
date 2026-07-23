@@ -31,23 +31,6 @@
 
 **Learnova** — Udemy-inspired LMS with auth, Stripe payments & role-based dashboards · `React` `Node.js` `MongoDB`
 
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=100&section=header" />
-</p>
-
-<p align="center">
-<i>Diploma → Lateral B.Tech entry → 3x hackathon champion → published researcher.<br>
-I don't just write code, I keep leveling up the way I ship it.</i>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C2FF&height=100&section=footer" />
-</p>
-
----
-
 ### 🤝 Open To
 
 `Full-time SDE roles (2027 grad)` · `Open-source collaboration` · `Freelance full-stack projects` · `Hackathon teams`
