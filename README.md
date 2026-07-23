@@ -1,11 +1,55 @@
-# 💫 About Me: 🌱 I’m currently learning Python Frameworks<br>📬Reach me through : ahirevedant05@gmail.com<br> 
+<h1 align="center">Hi, I'm Vedant Ahire 👋</h1>
+<h3 align="center">Full Stack Developer | Software Developer Intern @ Wolters Kluwer | AI Enthusiast</h3>
 
-## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedantahire05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VedantAhire05) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VedantAhire05) 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+AI-Powered+Apps;Always+Learning+%F0%9F%9A%80" />
+</p>
 
-# 💻 Tech Stack: ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+<p align="center">
+<a href="mailto:ahirevedant05@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://linkedin.com/in/VedantAhire05"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/VedantAhire05"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://twitter.com/VedantAhire05"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://instagram.com/vedantahire05"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
 
-# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=VedantAhire05&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=VedantAhire05&theme=react&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantAhire05&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=VedantAhire05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🛠️ Tech Stack
 
-### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) --- [![](https://visitcount.itsvg.in/api?id=VedantAhire05&icon=5&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,figma,vercel" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+**[Learnova](https://github.com/VedantAhire05)** — Udemy-inspired LMS with auth, Stripe payments & dashboards · `React` `Node.js` `MongoDB`
+
+**AI News Platform** — News app with AI-generated summaries · `Next.js` `Prisma` `OpenAI`
+
+**BioGuard AI** — Healthcare risk-assessment platform with multiple AI modules · `Python` `Django`
+
+**Wall Calendar** — Smart productivity calendar with notes & events · `React` `TypeScript`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VedantAhire05&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantAhire05&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantAhire05&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center"><i>"Great software isn't just written — it's engineered."</i></p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=VedantAhire05&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
