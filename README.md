@@ -39,13 +39,22 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 💻 whoami
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/VedantAhire05/VedantAhire05/output/github-contribution-grid-snake.svg" />
-</p>
+```bash
+vedant@dev:~$ whoami
+> Full Stack Developer building scalable web + AI-powered products
 
-> *Set up in 2 minutes: add [Platane/snk](https://github.com/Platane/snk) as a GitHub Action on your profile repo — it auto-generates this animation from your commit graph.*
+vedant@dev:~$ cat currently.txt
+> 🔭 Working on production-grade full-stack apps @ Wolters Kluwer
+> 🌱 Leveling up in Python frameworks, OCR & LLM integrations
+> 🏆 3x National Hackathon Winner · 3x IEEE Published Author
+> ⚡ Fun fact: I'd rather refactor than sleep
+
+vedant@dev:~$ ./stack.sh --run
+> React.js › Next.js › Node.js › MongoDB › PostgreSQL
+> Status: shipping 🚀
+```
 
 ---
 
