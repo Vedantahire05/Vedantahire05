@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vedant Ahire 👋</h1>
-<h3 align="center">Full Stack Developer | Software Developer Intern @ Wolters Kluwer | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer | 2x Software Engineering Intern | 3x National Hackathon Winner</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+AI-Powered+Apps;Always+Learning+%F0%9F%9A%80" />
@@ -18,20 +18,24 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nextjs,tailwind,redux,nodejs,express,graphql,mongodb,mysql,postgresql,redis,firebase,aws,docker,git,github,vercel" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-**[Learnova](https://github.com/VedantAhire05)** — Udemy-inspired LMS with auth, Stripe payments & dashboards · `React` `Node.js` `MongoDB`
+**[KrishiSarjana](https://krushi-sarjana.vercel.app)** — Multilingual crop-recommendation app with AI insights & real-time voice queries in 3 Indian languages, serving 500+ users · `React` `Node.js` `MongoDB` `AI/ML`
 
-**AI News Platform** — News app with AI-generated summaries · `Next.js` `Prisma` `OpenAI`
+**Converge** — Hackathon team-formation platform with skill-based matchmaking for 200+ participants across 5+ colleges; cut team formation time by 60% · `React` `Node.js` `MongoDB` `JWT`
 
-**BioGuard AI** — Healthcare risk-assessment platform with multiple AI modules · `Python` `Django`
+**Learnova** — Udemy-inspired LMS with auth, Stripe payments & role-based dashboards · `React` `Node.js` `MongoDB`
 
-**Wall Calendar** — Smart productivity calendar with notes & events · `React` `TypeScript`
+---
+
+### 🏆 Achievements
+
+🥇 Winner — VORTEXA'24, HackSprint 6.0'25 & Fusion'25 &nbsp;|&nbsp; 📄 3 IEEE Published Research Papers (AI/ML) &nbsp;|&nbsp; 🎓 GfG Campus Ambassador
 
 ---
 
