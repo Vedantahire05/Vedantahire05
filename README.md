@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vedant Ahire 👋</h1>
-<h3 align="center">Full Stack Developer | Software Developer Intern @ Wolters Kluwer | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+AI-Powered+Apps;Always+Learning+%F0%9F%9A%80" />
@@ -33,28 +33,24 @@
 
 ---
 
-### 🏆 Achievements
+### 📈 Impact, By the Numbers
 
-🥇 Winner — VORTEXA'24, HackSprint 6.0'25 & Fusion'25 &nbsp;|&nbsp; 📄 3 IEEE Published Research Papers (AI/ML) &nbsp;|&nbsp; 🎓 GfG Campus Ambassador
+| Metric | Result |
+|---|---|
+| Users served across shipped projects | 2,000+ |
+| API response time reduced (BubbleBuddy) | ↓ 30% |
+| Frontend–backend reliability improved via Jest (Frick) | ↑ 40% |
+| App performance improved across 3 full-stack modules | ↑ 35% |
+| Hackathon team-formation time cut (Converge) | ↓ 60% |
+| National hackathons won | 3 |
 
 ---
 
-### 💻 whoami
+### 🤝 Open To
 
-```bash
-vedant@dev:~$ whoami
-> Full Stack Developer building scalable web + AI-powered products
+`Full-time SDE roles (2027 grad)` · `Open-source collaboration` · `Freelance full-stack projects` · `Hackathon teams`
 
-vedant@dev:~$ cat currently.txt
-> 🔭 Working on production-grade full-stack apps @ Wolters Kluwer
-> 🌱 Leveling up in Python frameworks, OCR & LLM integrations
-> 🏆 3x National Hackathon Winner · 3x IEEE Published Author
-> ⚡ Fun fact: I'd rather refactor than sleep
-
-vedant@dev:~$ ./stack.sh --run
-> React.js › Next.js › Node.js › MongoDB › PostgreSQL
-> Status: shipping 🚀
-```
+Reach me fastest at **ahirevedant05@gmail.com**
 
 ---
 
